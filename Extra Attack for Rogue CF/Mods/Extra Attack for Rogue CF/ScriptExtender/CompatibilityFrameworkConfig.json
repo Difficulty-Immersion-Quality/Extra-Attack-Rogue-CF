@@ -1,0 +1,15 @@
+{
+    "FileVersion": 1,
+    "Progressions": [
+		{
+        "UUIDs": ["19857e46-f5dc-4a9f-847e-5f714ceef7b1"],
+        "Strings": [
+			{
+			"modGuid": "ba4fcd51-f603-4fcb-9575-311e82c0f12c",
+			"Action": "Insert",
+			"Type": "PassivesAdded",
+			"Strings": ["ExtraAttack"]
+			} ]
+		}
+    ]
+}
