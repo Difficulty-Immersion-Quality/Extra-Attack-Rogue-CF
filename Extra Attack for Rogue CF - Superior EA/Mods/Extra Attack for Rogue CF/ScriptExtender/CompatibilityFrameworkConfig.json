@@ -1,0 +1,35 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "UUIDs": ["19857e46-f5dc-4a9f-847e-5f714ceef7b1"],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["ExtraAttack"]
+        }
+      ]
+    },
+    {
+      "UUIDs": ["9cf65c52-0df9-4433-9059-f7ae29fb1f18"],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["ExtraAttack_2"]
+        }
+      ]
+    },
+    {
+      "UUIDs": ["9c927b1d-ec7e-4d57-ae8b-537bbfa051ac"],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["ExtraAttack_3"]
+        }
+      ]
+    }
+  ]
+}
